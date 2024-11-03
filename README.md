@@ -4,8 +4,6 @@
 
 - 🔭 I’m B.Tech computer science student and Graduate in 2026 **.**
 
-- 🌱 I’m currently learning **ReactJs**
-
 - 👨‍💻 All of my projects are available on [My Github](https://github.com/Bhumikapatil22)
 
 <h3 align="left">My Coding Profiles:</h3>
