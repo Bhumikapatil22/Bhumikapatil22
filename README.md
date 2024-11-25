@@ -10,7 +10,7 @@
 <p align="left">
 
 <a href="https://www.hackerrank.com/bhumikapatil2204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhumikapatil2204" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bhumika22" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="bhumika22" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/bhumikapatil22" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="bhumika22" height="30" width="30" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bhumikapatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhumikapatil" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Bhumika_Patil_22/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" alt="Bhumika_Patil_22" height="30"  /></a>
 
